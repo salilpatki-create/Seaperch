@@ -6,13 +6,7 @@
   ==================================================================
 -->
 
-## 10/30/2025 3:08 PM - Designed a propeller  
-
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--ad598d4d839883d0fd34799f7b8e7a175772f025/image.png)
-
-I designed a propeller in OnShape to go on the ROV. This thing was really hard to do in onshape itself, and I had to use a propeller generator to do it. I did a lot of research into propeller design, and learned how they work and how to optimize it for what you want. I designed one that works will with small, low speed craft. Next I will shrink it down to the size that I need it to be, and then I will mirror it for the other side as well.  
-
-## 10/30/2025 3:10 PM - Designed a propeller  
+## 10/30/2025 - Designed a propeller  
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--ad598d4d839883d0fd34799f7b8e7a175772f025/image.png)
 
